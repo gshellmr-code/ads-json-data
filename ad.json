@@ -2,10 +2,10 @@
   "video_url": "https://youtu.be/-h-YR-N5BrA?si=F-uAU7Ol7TcWo0IV",
   "video_title": "Github 2 ONLINE CONFIG WORKING",
   "video_description": " Hello 3 From Github UI successfully updated from server",
-  "start_muted": "off",
+  "start_muted": "on",
   "cta": {
     "text": "Github 2 Remote config active",
-    "button": "open",
+    "button": "open 2",
     "url": "https://youtube.com/playlist?list=PLLDjpMmrhh9XyoHcNEJhDNSXQdYf-eFJL&si=5VSgoGKow_uAjFR_"
   }
 }
