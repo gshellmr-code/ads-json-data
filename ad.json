@@ -23,7 +23,7 @@
         "CTA_PADDING": [8,4,8,4],
         "BUTTON_WIDTH": 90,
         "BUTTON_HEIGHT": 26,
-        "OFFSET_X": 10,
+        "OFFSET_X": 100,
         "OFFSET_Y": 53,
         "CONTROL_HEIGHT": 24,
         "SEEK_STEP": 10000,
