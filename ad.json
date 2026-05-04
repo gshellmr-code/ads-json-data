@@ -33,7 +33,7 @@
         "BUTTON_TEXT_COLOR_NAME": "white",
         "BUTTON_BG_LEVEL": 6,
         "CONTROLLER_ICON_COLOR_NAME": "white",
-        "TITLE_TEXT_COLOR_NAME": "white",
+        "TITLE_TEXT_COLOR_NAME": "yello",
         "DESC_TEXT_COLOR_NAME": "white",
         "CTA_TEXT_COLOR_NAME": "white",
         "FAST_SYNC_INTERVAL": 500,
