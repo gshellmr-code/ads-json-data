@@ -5,7 +5,7 @@
   "start_muted": "off",
   "cta": {
     "text": "Github 3 Remote config active",
-    "button": "Open 3 YT",
+    "button": "Open 4  YT",
     "url": "http://www.youtube.com/@AT_Tech_Zone"
   },
    "variables": {
@@ -24,11 +24,11 @@
         "BUTTON_WIDTH": 90,
         "BUTTON_HEIGHT": 26,
         "OFFSET_X": 9,
-        "OFFSET_Y": 53,
+        "OFFSET_Y": 54,
         "CONTROL_HEIGHT": 24,
         "SEEK_STEP": 10000,
         "BUTTON_BG_COLOR_NAME": "blue",
-        "BUTTON_TEXT_COLOR_NAME": "red",
+        "BUTTON_TEXT_COLOR_NAME": "white",
         "BUTTON_BG_LEVEL": 6,
         "CONTROLLER_ICON_COLOR_NAME": "white",
         "FAST_SYNC_INTERVAL": 500
