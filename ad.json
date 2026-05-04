@@ -2,7 +2,7 @@
   "video_url": "https://youtube.com/playlist?list=PLLDjpMmrhh9XyoHcNEJhDNSXQdYf-eFJL&si=5VSgoGKow_uAjFR_",
   "video_title": "ONLINE CONFIG WORKING",
   "video_description": "UI successfully updated from server",
-  "start_muted": off,
+  "start_muted": "off",
   "cta": {
     "text": "Remote config active",
     "button": "AT Tech Zone",
