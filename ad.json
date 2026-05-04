@@ -1,10 +1,10 @@
 {
   "video_url": "https://youtube.com/playlist?list=PLLDjpMmrhh9VaR6KkggRJkaBZ_pdT-vDU&si=8I7xtw-3lghW2Wu4",
-  "video_title": "run 2 time update Github 6 ONLINE CONFIG WORKING",
+  "video_title": "run 5 time update Github 6 ONLINE CONFIG WORKING",
   "video_description": " Hello 10 From Github UI successfully updated from server",
-  "start_muted": "on",
+  "start_muted": "off",
   "cta": {
-    "text": "Github 2 Remote config active",
+    "text": "Github 3 Remote config active",
     "button": "Open 3 YT",
     "url": "http://www.youtube.com/@AT_Tech_Zone"
   },
@@ -23,7 +23,7 @@
         "CTA_PADDING": [8,4,8,4],
         "BUTTON_WIDTH": 90,
         "BUTTON_HEIGHT": 26,
-        "OFFSET_X": 200,
+        "OFFSET_X": 9,
         "OFFSET_Y": 53,
         "CONTROL_HEIGHT": 24,
         "SEEK_STEP": 10000,
