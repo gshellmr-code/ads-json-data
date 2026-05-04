@@ -4,7 +4,7 @@
   "video_description": " Hello 10 From Github UI successfully updated from server",
   "start_muted": "off",
   "cta": {
-    "text": "Github 9 Remote config active",
+    "text": "Github 10 Remote config active",
     "button": "Open 2 YT",
     "url": "http://www.youtube.com/@AT_Tech_Zone"
   },
@@ -23,8 +23,8 @@
         "CTA_PADDING": [8,4,8,4],
         "BUTTON_WIDTH": 90,
         "BUTTON_HEIGHT": 26,
-        "OFFSET_X": 100,
-        "OFFSET_Y": 53,
+        "OFFSET_X": 200,
+        "OFFSET_Y": 253,
         "CONTROL_HEIGHT": 24,
         "SEEK_STEP": 10000,
         "BUTTON_BG_COLOR_NAME": "blue",
