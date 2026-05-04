@@ -1,10 +1,10 @@
 {
   "video_url": "https://youtube.com/playlist?list=PLLDjpMmrhh9XyoHcNEJhDNSXQdYf-eFJL&si=5VSgoGKow_uAjFR_",
   "video_title": "ONLINE CONFIG WORKING",
-  "video_description": "UI successfully updated from server",
+  "video_description": " Hello From Github UI successfully updated from server",
   "start_muted": "on",
   "cta": {
-    "text": "Remote config active",
+    "text": "Github Remote config active",
     "button": "AT Tech Zone",
     "url": "http://www.youtube.com/@AT_Tech_Zone"
   }
