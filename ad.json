@@ -43,7 +43,7 @@
         "YOUTUBE_EMBEDDED_VIDEO_ENDING": 10,
         "EMBEDDED_BTN_BG_COLOR_NAME": "gray",
         "EMBEDDED_BTN_TEXT_COLOR_NAME": "white",
-        "EMBEDDED_BTN_TEXT": "Watch full video on YouTube",
+        "EMBEDDED_BTN_TEXT": "Watch full video on YouTube"
     },
 
     "colors": {
