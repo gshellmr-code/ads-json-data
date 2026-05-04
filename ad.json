@@ -7,41 +7,5 @@
     "text": "Github 5 Remote config active",
     "button": "Open 1 YT",
     "url": "http://www.youtube.com/@AT_Tech_Zone"
-  },
-  "variables": {
-        "WINDOW_WIDTH": 367,
-        "WINDOW_HEIGHT": 397,
-        "GLOBAL_PADDING": 8,
-        "VIDEO_HEIGHT": 210,
-        "VIDEO_TOP_SPACER": 6,
-        "CONTROL_ROW_WIDTH": 351,
-        "TITLE_HEIGHT": 28,
-        "TITLE_PADDING": [8,4,8,4],
-        "DESC_HEIGHT": 65,
-        "DESC_PADDING": [8,4,8,4],
-        "CTA_HEIGHT": 26,
-        "CTA_PADDING": [8,4,8,4],
-        "BUTTON_WIDTH": 90,
-        "BUTTON_HEIGHT": 26,
-        "OFFSET_X": 10,
-        "OFFSET_Y": 55,
-        "CONTROL_HEIGHT": 24,
-        "SEEK_STEP": 10000,
-        "BUTTON_BG_COLOR_NAME": "blue",
-        "BUTTON_TEXT_COLOR_NAME": "red",
-        "BUTTON_BG_LEVEL": 6,
-        "CONTROLLER_ICON_COLOR_NAME": "white",
-        "FAST_SYNC_INTERVAL": 500
-    },
-
-    "colors": {
-        "black": [0,0,0],
-        "white": [255,255,255],
-        "red": [255,0,0],
-        "green": [0,255,0],
-        "blue": [0,120,255],
-        "yellow": [255,255,0],
-        "purple": [160,32,240],
-        "gray": [51,51,51]
-    }
+  }
 }
