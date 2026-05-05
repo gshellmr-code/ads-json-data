@@ -61,7 +61,7 @@
         "NEXT_UP_CONTROLLER": "on" ,
         "AD_COUNT": 4,
         "AD_URL": "https://youtu.be/cdwSgBSxOtE?si=nPW62a0_5gF4OUvF",
-        "AD_SKIP_TIME": 15,
+        "AD_SKIP_TIME": 5,
         "AD_BG_OPACITY": 7,
         "YT_AD_CONDITION": "on",
         "AD_VIDEO_START": 210,
