@@ -43,7 +43,8 @@
         "EMBEDDED_BTN_TEXT_COLOR_NAME": "white",
         "EMBEDDED_BTN_TEXT": "Watch full video on YouTube" ,
         "FAST_SYNC_INTERVAL": 500,
-        "YOUTUBE_DATA": "off"
+        "YOUTUBE_DATA": "off",
+        "CONFIG_IDENTIFIER": "github"
     },
 
     "colors": {
