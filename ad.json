@@ -1,14 +1,14 @@
 {
-  "video_url": "https://youtu.be/D8oegdTAELk?si=8iz3boNExhmVaLbd",
-  "video_title": "run 5 time update Github 6 ONLINE CONFIG WORKING",
-  "video_description": " Hello 10 From Github UI successfully updated from server",
+  "video_url": "https://youtu.be/-h-YR-N5BrA?si=sqPRHdV3pbFLdc_N",
+  "video_title": "Vidoe Title Fetching...",
+  "video_description": "Video Description Fetching...",
   "start_muted": "off",
   "user_mute_control": "1",
   "mute_lock_unit": "minutes",
   "player_volume": 100,
   "cta": {
-    "text": "Github 3 Remote config active ",
-    "button": "Open 4  YT",
+    "text": "If This video is helpfull for you subscribe our channel",
+    "button": "Visit To Channel",
     "url": "http://www.youtube.com/@AT_Tech_Zone"
   },
    "variables": {
