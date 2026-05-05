@@ -44,7 +44,18 @@
         "EMBEDDED_BTN_TEXT": "Watch full video on YouTube" ,
         "FAST_SYNC_INTERVAL": 500,
         "YOUTUBE_DATA": "on",
-        "CONFIG_IDENTIFIER": "github"
+        "CONFIG_IDENTIFIER": "github" ,
+         "NEXT_UP_URL": "auto",
+        "NEXT_UP_TITLE": "auto",
+        "NEXT_UP_CANCEL_TEXT": "Cancel",
+        "NEXT_UP_NEXT_TEXT": "Play Next",
+        "NEXT_UP_TITLE_COLOR_NAME": "white",
+        "NEXT_UP_TIMER_COLOR_NAME": "blue",
+        "NEXT_UP_BG_COLOR_NAME": "black",
+        "NEXT_UP_BG_OPACITY": 8,
+        "NEXT_UP_BTN_TEXT_COLOR_NAME": "white",
+        "NEXT_UP_BTN_BG_COLOR_NAME": "gray",
+        "NEXT_UP_COUNTDOWN": 13
     },
 
     "colors": {
