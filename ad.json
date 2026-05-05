@@ -33,7 +33,7 @@
         "BUTTON_TEXT_COLOR_NAME": "white",
         "BUTTON_BG_LEVEL": 10,
         "CONTROLLER_ICON_COLOR_NAME": "white",
-        "TITLE_TEXT_COLOR_NAME": "blue",
+        "TITLE_TEXT_COLOR_NAME": "white",
         "DESC_TEXT_COLOR_NAME": "white",
         "CTA_TEXT_COLOR_NAME": "white",
         "VIDEO_EMBEDDED": "on",
