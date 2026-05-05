@@ -1,5 +1,5 @@
 {
-  "video_url": "https://www.youtube.com/watch?v=mVrlq1iKwEU",
+  "video_url": "https://youtu.be/D8oegdTAELk?si=8iz3boNExhmVaLbd",
   "video_title": "run 5 time update Github 6 ONLINE CONFIG WORKING",
   "video_description": " Hello 10 From Github UI successfully updated from server",
   "start_muted": "off",
@@ -66,7 +66,7 @@
         "YT_AD_CONDITION": "on",
         "AD_VIDEO_START": 210,
         "AD_VIDEO_END": 320,
-        "START_ADS": "off",
+        "START_ADS": "on",
         "ENDING_ADS": "off",
         "AD_TRACK_COLOR_NAME": "red"
     },
