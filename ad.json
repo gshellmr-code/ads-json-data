@@ -67,7 +67,7 @@
         "AD_VIDEO_START": 210,
         "AD_VIDEO_END": 320,
         "START_ADS": "on",
-        "ENDING_ADS": "off",
+        "ENDING_ADS": "on",
         "AD_TRACK_COLOR_NAME": "red"
     },
 
