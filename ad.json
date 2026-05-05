@@ -58,7 +58,14 @@
         "NEXT_UP_BTN_TEXT_COLOR_NAME": "white",
         "NEXT_UP_BTN_BG_COLOR_NAME": "gray",
         "NEXT_UP_COUNTDOWN": 13 ,
-         "NEXT_UP_CONTROLLER": "on"
+        "NEXT_UP_CONTROLLER": "on" ,
+        "AD_COUNT": 24,
+        "AD_URL": "https://youtu.be/cdwSgBSxOtE?si=nPW62a0_5gF4OUvF",
+        "AD_SKIP_TIME": 15,
+        "AD_BG_OPACITY": 7,
+        "YT_AD_CONDITION": "on",
+        "AD_VIDEO_START": 10,
+        "AD_VIDEO_END": 20
     },
 
     "colors": {
