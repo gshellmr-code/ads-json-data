@@ -36,7 +36,7 @@
         "TITLE_TEXT_COLOR_NAME": "white",
         "DESC_TEXT_COLOR_NAME": "white",
         "CTA_TEXT_COLOR_NAME": "white",
-        "VIDEO_EMBEDDED": "off",
+        "VIDEO_EMBEDDED": "on",
         "YOUTUBE_EMBEDDED_VIDEO_STARTING": 0,
         "YOUTUBE_EMBEDDED_VIDEO_ENDING": 10,
         "EMBEDDED_BTN_BG_COLOR_NAME": "red",
