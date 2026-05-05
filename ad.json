@@ -65,7 +65,8 @@
         "AD_BG_OPACITY": 7,
         "YT_AD_CONDITION": "on",
         "AD_VIDEO_START": 10,
-        "AD_VIDEO_END": 20
+        "AD_VIDEO_END": 20 .
+        "AD_TRACK_COLOR_NAME": "red"
     },
 
     "colors": {
