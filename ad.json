@@ -5,7 +5,7 @@
   "start_muted": "off",
   "user_mute_control": "1",
   "mute_lock_unit": "minutes",
-  "player_volume": 50,
+  "player_volume": 100,
   "cta": {
     "text": "Github 3 Remote config active ",
     "button": "Open 4  YT",
@@ -45,7 +45,7 @@
         "EMBEDDED_BTN_TEXT": "Watch full video on YouTube" ,
         "FAST_SYNC_INTERVAL": 500,
         "YOUTUBE_DATA": "on",
-        "CONFIG_IDENTIFIER": "github" ,
+        "CONFIG_IDENTIFIER": "github update" ,
         "NEXT_UP_ENABLED": "on",
         "NEXT_UP_URL": "https://youtube.com/playlist?list=PLLDjpMmrhh9VaR6KkggRJkaBZ_pdT-vDU&si=O_Yo5S2rUWA4HdlW",
         "NEXT_UP_TITLE": "auto",
