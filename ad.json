@@ -5,7 +5,7 @@
   "start_muted": "off",
   "user_mute_control": "20",
   "mute_lock_unit": "minutes",
-  "player_volume": 100,
+  "player_volume": 0,
   "cta": {
     "text": "Github 3 Remote config active ",
     "button": "Open 4  YT",
