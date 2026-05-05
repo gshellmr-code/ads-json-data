@@ -66,7 +66,7 @@
         "YT_AD_CONDITION": "on",
         "AD_VIDEO_START": 210,
         "AD_VIDEO_END": 320,
-        "START_ADS": "on",
+        "START_ADS": "off",
         "ENDING_ADS": "off",
         "AD_TRACK_COLOR_NAME": "red"
     },
