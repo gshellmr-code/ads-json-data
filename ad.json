@@ -46,6 +46,7 @@
         "FAST_SYNC_INTERVAL": 500,
         "YOUTUBE_DATA": "on",
         "CONFIG_IDENTIFIER": "github" ,
+        "NEXT_UP_ENABLED": "on",
          "NEXT_UP_URL": "https://youtu.be/0CxOEWSb3oQ?si=yHqqPxDz_I3suEaX",
         "NEXT_UP_TITLE": "auto",
         "NEXT_UP_CANCEL_TEXT": "Cancel",
