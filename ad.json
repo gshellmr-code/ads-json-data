@@ -29,11 +29,11 @@
         "OFFSET_Y": 54,
         "CONTROL_HEIGHT": 24,
         "SEEK_STEP": 10000,
-        "BUTTON_BG_COLOR_NAME": "yellow",
+        "BUTTON_BG_COLOR_NAME": "red",
         "BUTTON_TEXT_COLOR_NAME": "white",
         "BUTTON_BG_LEVEL": 10,
         "CONTROLLER_ICON_COLOR_NAME": "white",
-        "TITLE_TEXT_COLOR_NAME": "yellow",
+        "TITLE_TEXT_COLOR_NAME": "blue",
         "DESC_TEXT_COLOR_NAME": "white",
         "CTA_TEXT_COLOR_NAME": "white",
         "VIDEO_EMBEDDED": "on",
@@ -43,7 +43,7 @@
         "EMBEDDED_BTN_TEXT_COLOR_NAME": "white",
         "EMBEDDED_BTN_TEXT": "Watch full video on YouTube" ,
         "FAST_SYNC_INTERVAL": 500,
-        "YOUTUBE_DATA": "on"
+        "YOUTUBE_DATA": "off"
     },
 
     "colors": {
