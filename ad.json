@@ -64,8 +64,8 @@
         "AD_SKIP_TIME": 15,
         "AD_BG_OPACITY": 7,
         "YT_AD_CONDITION": "on",
-        "AD_VIDEO_START": 10,
-        "AD_VIDEO_END": 20,
+        "AD_VIDEO_START": 210,
+        "AD_VIDEO_END": 320,
         "AD_TRACK_COLOR_NAME": "red"
     },
 
