@@ -39,7 +39,7 @@
         "VIDEO_EMBEDDED": "on",
         "YOUTUBE_EMBEDDED_VIDEO_STARTING": 0,
         "YOUTUBE_EMBEDDED_VIDEO_ENDING": 10,
-        "EMBEDDED_BTN_BG_COLOR_NAME": "gray",
+        "EMBEDDED_BTN_BG_COLOR_NAME": "red",
         "EMBEDDED_BTN_TEXT_COLOR_NAME": "white",
         "EMBEDDED_BTN_TEXT": "Watch full video on YouTube" ,
         "FAST_SYNC_INTERVAL": 500,
