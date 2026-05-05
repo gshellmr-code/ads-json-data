@@ -47,7 +47,7 @@
         "YOUTUBE_DATA": "on",
         "CONFIG_IDENTIFIER": "github update" ,
         "NEXT_UP_ENABLED": "on",
-        "NEXT_UP_URL": "https://www.tiktok.com/@vmmystery/video/7624238786251148576?is_from_webapp=1&sender_device=pc",
+        "NEXT_UP_URL": "auto",
         "NEXT_UP_TITLE": "auto",
         "NEXT_UP_CANCEL_TEXT": "Cancel",
         "NEXT_UP_NEXT_TEXT": "Play Next",
