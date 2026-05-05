@@ -47,7 +47,7 @@
         "YOUTUBE_DATA": "on",
         "CONFIG_IDENTIFIER": "github" ,
         "NEXT_UP_ENABLED": "on",
-         "NEXT_UP_URL": "https://youtube.com/playlist?list=PLLDjpMmrhh9VaR6KkggRJkaBZ_pdT-vDU&si=O_Yo5S2rUWA4HdlW",
+        "NEXT_UP_URL": "https://youtube.com/playlist?list=PLLDjpMmrhh9VaR6KkggRJkaBZ_pdT-vDU&si=O_Yo5S2rUWA4HdlW",
         "NEXT_UP_TITLE": "auto",
         "NEXT_UP_CANCEL_TEXT": "Cancel",
         "NEXT_UP_NEXT_TEXT": "Play Next",
@@ -58,17 +58,7 @@
         "NEXT_UP_BTN_TEXT_COLOR_NAME": "white",
         "NEXT_UP_BTN_BG_COLOR_NAME": "gray",
         "NEXT_UP_COUNTDOWN": 13 ,
-        "NEXT_UP_CONTROLLER": "on" ,
-        "AD_COUNT": 4,
-        "AD_URL": "https://youtu.be/cdwSgBSxOtE?si=nPW62a0_5gF4OUvF",
-        "AD_SKIP_TIME": 15,
-        "AD_BG_OPACITY": 7,
-        "YT_AD_CONDITION": "on",
-        "AD_VIDEO_START": 210,
-        "AD_VIDEO_END": 320,
-        "START_ADS": "on",
-        "ENDING_ADS": "on",
-        "AD_TRACK_COLOR_NAME": "red"
+        "NEXT_UP_CONTROLLER": "on" 
     },
 
     "colors": {
