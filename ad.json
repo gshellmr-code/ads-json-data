@@ -56,7 +56,8 @@
         "NEXT_UP_BG_OPACITY": 8,
         "NEXT_UP_BTN_TEXT_COLOR_NAME": "white",
         "NEXT_UP_BTN_BG_COLOR_NAME": "gray",
-        "NEXT_UP_COUNTDOWN": 13
+        "NEXT_UP_COUNTDOWN": 13 ,
+         "NEXT_UP_CONTROLLER": "on"
     },
 
     "colors": {
