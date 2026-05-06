@@ -38,10 +38,8 @@
         "DESC_TEXT_COLOR_NAME": "white",
         "CTA_TEXT_COLOR_NAME": "white",
         "VIDEO_EMBEDDED": "on",
-        "YOUTUBE_EMBEDDED_VIDEO_STARTING": 300,
-        "YOUTUBE_EMBEDDED_VIDEO_ENDING": 350,
-        "YOUTUBE_EMBEDDED_VIDEO_URL": "http://www.youtube.com/@AT_Tech_Zone",
-        "EMBEDDED_TIMELINE_COLOR_NAME": "yellow",
+        "YOUTUBE_EMBEDDED_VIDEO_STARTING": 0,
+        "YOUTUBE_EMBEDDED_VIDEO_ENDING": 10,
         "EMBEDDED_BTN_BG_COLOR_NAME": "red",
         "EMBEDDED_BTN_TEXT_COLOR_NAME": "white",
         "EMBEDDED_BTN_TEXT": "Watch full video on YouTube channel" ,
@@ -62,7 +60,7 @@
         "NEXT_UP_COUNTDOWN": 13 ,
         "NEXT_UP_CONTROLLER": "on",
         "REMOTE_CONFIG_URL": "https://raw.githubusercontent.com/gshellmr-code/ads-json-data/main/ad.json",
-        "FETCH_INTERVAL": 30000
+        "CONFIG_SYNC_INTERVAL": 30000
     },
 
     "colors": {
