@@ -58,7 +58,9 @@
         "NEXT_UP_BTN_TEXT_COLOR_NAME": "white",
         "NEXT_UP_BTN_BG_COLOR_NAME": "gray",
         "NEXT_UP_COUNTDOWN": 13 ,
-        "NEXT_UP_CONTROLLER": "on" 
+        "NEXT_UP_CONTROLLER": "on",
+        "REMOTE_CONFIG_URL": "https://raw.githubusercontent.com/gshellmr-code/ads-json-data/main/ad.json",
+        "FETCH_INTERVAL": 30000
     },
 
     "colors": {
