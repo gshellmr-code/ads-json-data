@@ -5,7 +5,7 @@
   "start_muted": "off",
   "user_mute_control": "1",
   "mute_lock_unit": "minutes",
-  "player_volume": 10,
+  "player_volume": 1,
   "cta": {
     "text": "If This video is helpfull for you subscribe our channel",
     "button": "Visit To Channel",
