@@ -1,6 +1,6 @@
 
     "variables": {
-        "APP_TITLE": "WSA Installer — BY MR CYBER",
+        "APP_TITLE": "WSA Installer — BY MR CYBER Github",
         "APP_ID": "mrcyber.wsainstaller.download.1.0",
         "APP_PORT_LOCK": 65432,
         "APP_IP_LOCK": "127.0.0.1",
