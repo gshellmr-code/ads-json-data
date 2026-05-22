@@ -1,6 +1,10 @@
-{
+# developer_mode.py
+# This file contains the developer mode config. 
+# Do not include this file in production releases.
+
+CONFIG = {
     "variables": {
-        "APP_TITLE": "WSA Installer — By MR CYBER",
+        "APP_TITLE": "WSA Installer — BY MR CYBER",
         "APP_ID": "mrcyber.wsainstaller.download.1.0",
         "APP_PORT_LOCK": 65432,
         "APP_IP_LOCK": "127.0.0.1",
@@ -102,8 +106,11 @@
         "UNINSTALLER_AWAITING_TEXT": "Awaiting confirmation…",
         "UNINSTALLER_WAIT_PREFIX": "Wait ",
         "UNINSTALLER_CONFIRM_TEXT": "Confirm Uninstall",
-        "ENABLE_ADS": True,
-        "EXTERNAL_BROWSER": True,
+        "ENABLE_ADS": "False",
+        "EXTERNAL_BROWSER": "False",
+        "WSA_START_AS_AD_SDK": "True",
+        "SYSTEM_START_AD_SDK": "True",
+        "PARTIAL_AUTO_DOWNLOAD": "False",
         "AD_SPONSOR_URL": "https://omg10.com/4/10926747",
         "AD_TIMER_PREFIX": "Ad finishes in ",
         "AD_WAIT_PREFIX": "Wait ",
@@ -118,7 +125,7 @@
         "WSA_DEVICE": "127.0.0.1:58526",
         "WSA_ROOT": "C:\\Windows Subsystem for Android.lnk",
         "GITHUB_API_URL": "https://api.github.com/repos/MustardChef/WSABuilds/releases/latest",
-        "CONFIG_IDENTIFIER": "Dev",
+        "CONFIG_IDENTIFIER": "Github",
         "REMOTE_CONFIG_URL": "https://raw.githubusercontent.com/gshellmr-code/ads-json-data/refs/heads/main/wsa.json",
         "CONFIG_SYNC_INTERVAL": 30000
     },
