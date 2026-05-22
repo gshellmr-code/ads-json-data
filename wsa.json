@@ -1,8 +1,4 @@
-# developer_mode.py
-# This file contains the developer mode config. 
-# Do not include this file in production releases.
 
-CONFIG = {
     "variables": {
         "APP_TITLE": "WSA Installer — BY MR CYBER",
         "APP_ID": "mrcyber.wsainstaller.download.1.0",
