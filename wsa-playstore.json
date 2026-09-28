@@ -1,1 +1,15 @@
-
+{
+  "v": 1,
+  "adsense": {
+    "caPub": "",
+    "slots": { "home": "", "details": "", "search": "" }
+  },
+  "admob": { "banner": "", "interstitial": "" },
+  "interstitial": {
+    "enabled": false,
+    "cooldownMin": 5,
+    "placements": ["install_tap", "after_install", "cold_open"]
+  },
+  "slider": { "enabled": true, "intervalMs": 5000 },
+  "sponsored": []
+}
